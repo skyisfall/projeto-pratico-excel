@@ -14,10 +14,9 @@ O objetivo foi explorar, tratar e visualizar os dados para gerar insights releva
 ---
 
 ## 🗂️ Arquivos no Repositório
-- (https://1drv.ms/x/c/3ae51122ec396652/EfyJgIoDSSZJtw5LxulTyvsBZhart0kAgEpy0Yc6fZeNvA?e=enLdt4) → Arquivo Excel utilizado na análise.  
-- (Projeto-Pratico-de-Analise-de-Dados-em-Empresas-com-Excel.pdf) → Apresentação com prints e explicações do processo.  
+- [Arquivo Excel utilizado na análise](https://1drv.ms/x/c/3ae51122ec396652/EfyJgIoDSSZJtw5LxulTyvsBZhart0kAgEpy0Yc6fZeNvA?e=enLdt4)  
+- [Apresentação com prints e explicações do processo](Projeto-Pratico-de-Analise-de-Dados-em-Empresas-com-Excel.pdf)  
 - `README.md` → Descrição do projeto.  
-
 ---
 
 ## 🛠️ Metodologia
