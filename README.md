@@ -14,7 +14,7 @@ O objetivo foi explorar, tratar e visualizar os dados para gerar insights releva
 ---
 
 ## 🗂️ Arquivos no Repositório
-- `https://onedrive.live.com/:x:/g/personal/3AE51122EC396652/EfyJgIoDSSZJtw5LxulTyvsBZhart0kAgEpy0Yc6fZeNvA?resid=3AE51122EC396652!s8a8089fc49034926b70e4bc6e953cafb&ithint=file%2Cxlsx&e=xa6Cym&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy8zYWU1MTEyMmVjMzk2NjUyL0VmeUpnSW9EU1NaSnR3NUx4dWxUeXZzQlpoYXJ0MGtBZ0VweTBZYzZmWmVOdkE_ZT14YTZDeW0` → Arquivo Excel utilizado na análise.  
+- `(https://1drv.ms/x/c/3ae51122ec396652/EfyJgIoDSSZJtw5LxulTyvsBZhart0kAgEpy0Yc6fZeNvA?e=enLdt4)` → Arquivo Excel utilizado na análise.  
 - `Projeto-Pratico-de-Analise-de-Dados-em-Empresas-com-Excel` → Apresentação com prints e explicações do processo.  
 - `README.md` → Descrição do projeto.  
 
