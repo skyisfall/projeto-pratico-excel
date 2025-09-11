@@ -38,7 +38,7 @@ O objetivo foi explorar, tratar e visualizar os dados para gerar insights releva
 
 ## 📑 Apresentação
 A versão completa com o passo a passo está disponível em:  
-- [Apresentação em PDF](file:///C:/Users/alana/Downloads/Projeto-Pratico-de-Analise-de-Dados-em-Empresas-com-Excel.pdf)  
+- [Apresentação em PDF](Projeto-Pratico-de-Analise-de-Dados-em-Empresas-com-Excel.pdf) 
 - [Link no Gamma](https://projeto-pratico-de-anali-8zbbczq.gamma.site/)  
 
 ---
