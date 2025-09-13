@@ -15,7 +15,7 @@ O objetivo foi explorar, tratar e visualizar os dados para gerar insights releva
 
 ## 🗂️ Arquivos no Repositório
 - [Arquivo Excel utilizado na análise](https://1drv.ms/x/c/3ae51122ec396652/EfyJgIoDSSZJtw5LxulTyvsBZhart0kAgEpy0Yc6fZeNvA?e=enLdt4)  
-- [Apresentação com prints e explicações do processo](Projeto-Pratico-de-Analise-de-Dados-em-Empresas-com-Excel.pdf)  
+- [Apresentação com prints e explicações do processo](Projeto-Pratico-Analise-de-Dados-para-RH-com-Excel.pdf)  
 - `README.md` → Descrição do projeto.  
 ---
 
@@ -38,7 +38,7 @@ O objetivo foi explorar, tratar e visualizar os dados para gerar insights releva
 
 ## 📑 Apresentação
 A versão completa com o passo a passo está disponível em:  
-- [Apresentação em PDF](Projeto-Pratico-de-Analise-de-Dados-em-Empresas-com-Excel.pdf) 
+- [Apresentação em PDF](Projeto-Pratico-Analise-de-Dados-para-RH-com-Excel.pdf) 
 - [Link no Gamma](https://projeto-pratico-de-anali-8zbbczq.gamma.site/)  
 
 ---
